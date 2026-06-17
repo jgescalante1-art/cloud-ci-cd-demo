@@ -1,1 +1,1 @@
-![CI Status](https://github.com/jgescalante1-art/REPO/actions/workflows/main.yml/badge.svg)
+![CI Status](https://github.com/jgescalante1-art/cloud-ci-cd-demo/actions/workflows/main.yml/badge.svg)
